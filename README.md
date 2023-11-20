@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Daehwi%20Github&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=Daehwi%20Github&fontSize=70&animation=fadeIn)
 
 ---
 ![daehwichoi's github stats](https://github-readme-stats.vercel.app/api?username=daehwichoi&show_icons=true&theme=gruvbox)
