@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=Daehwi%20Github&fontSize=70&animation=fadeIn)
 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
 # 🖥️ Git Status
 
 ![daehwichoi's github stats](https://github-readme-stats.vercel.app/api?username=daehwichoi&show_icons=true&theme=gruvbox)
@@ -18,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
