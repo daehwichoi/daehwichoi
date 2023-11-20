@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Daehwi%20Github&fontSize=90&animation=fadeIn)
 
+---
+![daehwichoi's github stats](https://github-readme-stats.vercel.app/api?username=daehwichoi&show_icons=true&theme=gruvbox)
 
 <!--
 **daehwichoi/daehwichoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
